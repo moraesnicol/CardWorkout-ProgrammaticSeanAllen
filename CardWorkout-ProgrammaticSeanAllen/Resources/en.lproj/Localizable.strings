@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CardWorkout-ProgrammaticSeanAllen
+
+  Created by Gabriel on 27/12/21.
+  
+*/
+
+
+"rules.description" = "The value of each card represents the number of exercise you do. \n\nJ = 11, Q = 12, K = 13, A = 14";
+"exerciseLabel.description" = "♠️ = Push-ups\n\n❤️ = Sit-up\n\n♣️ = Burpes\n\n♦️ = Jumping Jacks";
