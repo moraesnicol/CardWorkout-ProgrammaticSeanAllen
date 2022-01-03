@@ -10,6 +10,7 @@
 		C005FD13277AB38000D7664A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C005FD15277AB38000D7664A /* Localizable.strings */; };
 		C005FD18277AB50500D7664A /* String + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C005FD17277AB50500D7664A /* String + Extension.swift */; };
 		C005FD1B277AB5FD00D7664A /* Strings + Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C005FD1A277AB5FD00D7664A /* Strings + Constants.swift */; };
+		C069F47D27829AB600B89B31 /* CardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = C069F47C27829AB600B89B31 /* CardDeck.swift */; };
 		C06D80492779590000A92373 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06D80482779590000A92373 /* CardSelectionVC.swift */; };
 		C06D804B27795A5500A92373 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06D804A27795A5500A92373 /* CWButton.swift */; };
 		C06D804E2779636F00A92373 /* RulesVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06D804D2779636F00A92373 /* RulesVCViewController.swift */; };
@@ -23,6 +24,7 @@
 		C005FD14277AB38000D7664A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C005FD17277AB50500D7664A /* String + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String + Extension.swift"; sourceTree = "<group>"; };
 		C005FD1A277AB5FD00D7664A /* Strings + Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strings + Constants.swift"; sourceTree = "<group>"; };
+		C069F47C27829AB600B89B31 /* CardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDeck.swift; sourceTree = "<group>"; };
 		C06D80482779590000A92373 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CardSelectionVC.swift; path = "CardWorkout-ProgrammaticSeanAllen/Features/CardSelectionVC.swift"; sourceTree = SOURCE_ROOT; };
 		C06D804A27795A5500A92373 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
 		C06D804D2779636F00A92373 /* RulesVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVCViewController.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				C06D804C27795C6A00A92373 /* Components */,
 				C06D80482779590000A92373 /* CardSelectionVC.swift */,
 				C06D804D2779636F00A92373 /* RulesVCViewController.swift */,
+				C069F47C27829AB600B89B31 /* CardDeck.swift */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			files = (
 				C06D80492779590000A92373 /* CardSelectionVC.swift in Sources */,
 				C09E1E312773C36B00BA255A /* AppDelegate.swift in Sources */,
+				C069F47D27829AB600B89B31 /* CardDeck.swift in Sources */,
 				C005FD18277AB50500D7664A /* String + Extension.swift in Sources */,
 				C09E1E332773C36B00BA255A /* SceneDelegate.swift in Sources */,
 				C005FD1B277AB5FD00D7664A /* Strings + Constants.swift in Sources */,

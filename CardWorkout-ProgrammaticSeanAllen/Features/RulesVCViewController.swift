@@ -50,8 +50,8 @@ class RulesVC: UIViewController {
             rulesLabel.topAnchor.constraint(equalTo: titleLabel.bottomAnchor, constant: 25),
             rulesLabel.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 30),
             rulesLabel.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -30),
-            
         ])
+        
     }
     
     func configureExerciseLabel() {
